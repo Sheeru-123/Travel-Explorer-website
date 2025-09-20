@@ -2,14 +2,14 @@
 
 A visually engaging website that showcases beautiful travel destinations around the world. Built using **HTML**, **CSS**, and **JavaScript** only.
 
-## ✨ Features
-
-- 🔐 Login popup with animations
-- 🏞️ Dynamic gallery of travel destinations
-- 📍 Google Maps location links for each place
-- 🔄 "See More" button to load more places dynamically
-- ❌ "Exit" button to close the main content and return to login
-- 💅 Responsive design with modern gradients and hover effects
+## 🚀 Features
+- 🔑 **Login Page** (dummy login, no backend required)
+- 🖼️ **Gallery of Famous Places** with images, descriptions, and Google Maps links
+- 🗺️ **"View on Map"** button to directly open the place in Google Maps
+- ☁️ **Weather Information**  
+  - Each place card now has a **"Show Weather"** button  
+  - On click, it fetches **live weather data** (temperature + description) from [OpenWeatherMap](https://openweathermap.org/) API  
+- 🎨 Modern **UI with CSS styling** (hover effects, gradient backgrounds, responsive design)
 
 ## 🚀 Technologies Used
 
@@ -18,7 +18,8 @@ A visually engaging website that showcases beautiful travel destinations around 
 - Vanilla JavaScript (DOM manipulation, event listeners)
 
 ## 📸 Screenshots
-<img width="1905" height="971" alt="Screenshot 2025-07-17 103546" src="https://github.com/user-attachments/assets/dacb48a1-37df-4ab1-9c62-b95d83ae0e11" />
+
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/5cf8ece4-f79c-4f5e-b387-7afc8559f3f0" />
 
 ## Sample Output
 
