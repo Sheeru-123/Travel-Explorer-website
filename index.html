@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Beautiful Places to Explore</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <!-- Login Popup -->
+  <div id="loginPopup" class="popup">
+    <form id="loginForm" class="popup-content">
+      <h2>Login</h2>
+      <input type="text" placeholder="Username" required />
+      <input type="password" placeholder="Password" required />
+      <button type="submit">Login</button>
+    </form>
+  </div>
+
+  <!-- Main Content -->
+  <div id="mainContent" style="display: none;">
+    <nav>
+      <h1>🌍 Beautiful Places to Explore</h1>
+      <button id="closeBtn">Exit</button>
+
+      
+    </nav>
+
+    <div class="gallery" id="placeContainer">
+      <!-- JS will insert places here -->
+    </div>
+
+    <button id="seeMoreBtn">See More</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
