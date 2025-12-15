@@ -99,7 +99,7 @@ const places = [
   },
   {
     name: "Offbeat place in Kashmir",
-    image: "https://india.destifo.com/wp-content/uploads/sites/5/2023/09/offbeat-places-in-kashmir.jpg",
+    image: "https://tse4.mm.bing.net/th/id/OIP.V9kxv7FvzG1ak2L8WLD71AHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
     desc: "Kashmir, often referred to as “Paradise on Earth,” is a breathtaking region located in the northernmost part of India.",
     map: "https://www.google.com/maps?q=34.083656,74.797371"
   }
